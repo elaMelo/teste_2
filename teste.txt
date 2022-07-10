@@ -11,3 +11,4 @@ texto
 h
 j
 k
+ç
